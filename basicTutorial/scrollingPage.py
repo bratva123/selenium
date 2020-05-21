@@ -7,7 +7,7 @@ class ScrollingPage():
         baseUrl = "https://letskodeit.teachable.com/pages/practice"
         driver.get(baseUrl)
 
-        driver.implicitly_wait(3)
+        driver.implicitly_wait(4)
 
 
         #Scroll Down
