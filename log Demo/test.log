@@ -1,0 +1,5 @@
+2020-05-16 14:13:23,126 -LoggerConf: DEBUG: debug message
+2020-05-16 14:13:23,126 -LoggerConf: INFO: info message
+2020-05-16 14:13:23,126 -LoggerConf: WARNING: warn message
+2020-05-16 14:13:23,126 -LoggerConf: ERROR: error message
+2020-05-16 14:13:23,126 -LoggerConf: CRITICAL: critical message
