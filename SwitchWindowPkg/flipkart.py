@@ -18,10 +18,10 @@ class SwitchWindow():
 
     def login(self, username, psw):
         emailInput = self.driver.find_element_by_xpath("//input[@class='_2zrpKA _1dBPDZ']")
-        emailInput.send_keys("9931145329")
+        emailInput.send_keys("XYZ")
 
         pswInput = self.driver.find_element_by_xpath("//input[@class='_2zrpKA _3v41xv _1dBPDZ']")
-        pswInput.send_keys("nishi@1234")
+        pswInput.send_keys("XYZ")
         time.sleep(3)
         loginBtn = self.driver.find_element_by_xpath("//button[@class='_2AkmmA _1LctnI _7UHT_c']")
         loginBtn.click()
